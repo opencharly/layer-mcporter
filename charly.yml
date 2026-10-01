@@ -10,7 +10,7 @@ mcporter:
             cleanly and prints a semantic version, and `mcporter --help` lists the
             core MCP commands (list, call) that define the CLI surface.
         require:
-            - '@github.com/opencharly/layer-nodejs:v2026.239.1624'
+            - '@github.com/opencharly/layer-nodejs:v2026.272.0322'
         plan:
             - check: the mcporter binary is installed into the npm global bin directory
               file:
