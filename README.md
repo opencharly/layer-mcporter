@@ -51,7 +51,6 @@ mcporter call <tool> # call an MCP tool
 - Owning skill: `/charly-tools:mcporter` — the MCP server CLI, its install path,
   and its `list` / `call` surface.
 - `/charly-coder:nodejs` — required runtime dependency.
-- `/charly-openclaw:openclaw-full` — metalayer that includes mcporter.
 - `/charly-image:layer` — candy authoring reference.
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
